@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A brief note about who I am and what drives me.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I live in Portland and I work at Nike doing Analytics work. I enjoy rock climbing, video games, meeting new people. For work, I am curious and passionate about ways to leverage data to make a difference. 
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I went to school at UC Berkeley. Worked in the education sector, then healthcare for a short bit, and now i'm working in logistics. 
